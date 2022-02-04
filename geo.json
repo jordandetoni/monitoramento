@@ -1,61 +1,61 @@
   [
     {
       "key" : "VBR",
-      "name" : "Viber Telecom",
+      "name" : "Viber",
       "latitude" : -22.8984871,
       "longitude" : -43.2406326
     },
     {
       "key" : "FAZ",
-      "name" : "Fibracom Fazendinha",
+      "name" : "Fazendinha",
       "latitude" : -22.8534196,
       "longitude" : -42.3252387
     },
     {
       "key" : "BAN",
-      "name" : "Fibracom Bananeiras",
+      "name" : "Bananeiras",
       "latitude" : -22.8533317,
       "longitude" : -42.3580697
     },
     {
       "key" : "TNL",
-      "name" : "Tnl Telecom",
+      "name" : "Tnl",
       "latitude" : -22.9073234,
       "longitude" : -43.6092511
     },
     {
       "key" : "IPT",
-      "name" : "IP Telecom",
+      "name" : "Iptelecom",
       "latitude" : -22.8984871,
       "longitude" : -43.2406326
     },
     {
       "key" : "CBT",
-      "name" : "Conexao Brasil Telecom",
+      "name" : "Conexaobrasiltelecom",
       "latitude" : -20.5107139,
       "longitude" : -40.3663651
     },
     {
       "key" : "FBCSLS",
-      "name" : "Fibracom Salsa",
+      "name" : "Fibracomsalsa",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
     },
     {
       "key" : "FBCVLP",
-      "name" : "Fibracom Vila Pinheiro",
+      "name" : "Fibracomvilapinheiro",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
     },
     {
       "key" : "FBCVLJ",
-      "name" : "Fibracom Vila João",
+      "name" : "Fibracomvilajoão",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
     },
     {
       "key" : "FBCTMB",
-      "name" : "Fibracom Timbau",
+      "name" : "Fibracomtimbau",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
     }
