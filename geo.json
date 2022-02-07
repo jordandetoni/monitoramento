@@ -1,60 +1,60 @@
   [
     {
-      "key" : "VBR",
+      "key" : "A1",
       "name" : "Viber",
       "latitude" : -22.8984871,
       "longitude" : -43.2406326
     },
     {
-      "key" : "FAZ",
+      "key" : "A2",
       "name" : "Fazendinha",
       "latitude" : -22.8534196,
       "longitude" : -42.3252387
     },
     {
-      "key" : "BAN",
+      "key" : "A3",
       "name" : "Bananeiras",
       "latitude" : -22.8533317,
       "longitude" : -42.3580697
     },
     {
-      "key" : "TNL",
+      "key" : "A4",
       "name" : "Tnl",
       "latitude" : -22.9073234,
       "longitude" : -43.6092511
     },
     {
-      "key" : "IPT",
+      "key" : "A5",
       "name" : "Iptelecom",
       "latitude" : -22.8984871,
       "longitude" : -43.2406326
     },
     {
-      "key" : "CBT",
+      "key" : "A6",
       "name" : "Conexaobrasiltelecom",
       "latitude" : -20.5107139,
       "longitude" : -40.3663651
     },
     {
-      "key" : "FBCSLS",
+      "key" : "A7",
       "name" : "Fibracomsalsa",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
     },
     {
-      "key" : "FBCVLP",
+      "key" : "A8",
       "name" : "Fibracomvilapinheiro",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
     },
     {
-      "key" : "FBCVLJ",
+      "key" : "A9",
       "name" : "Fibracomvilajoão",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
     },
     {
-      "key" : "FBCTMB",
+      "key" : "B1",
       "name" : "Fibracomtimbau",
       "latitude" : -22.8580463,
       "longitude" : -43.2617906
