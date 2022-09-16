@@ -1,62 +1,9 @@
-  [
-    {
-      "key" : "VBR-BASE",
-      "name" : "Viber Base",
-      "latitude" : -22.8984871,
-      "longitude" : -43.2406326
-    },
-    {
-      "key" : "FBC-FAZ",
-      "name" : "Fibracom Fazendinha",
-      "latitude" : -22.8534196,
-      "longitude" : -42.3252387
-    },
-    {
-      "key" : "FBC-BAN",
-      "name" : "Fibracom Bananeiras",
-      "latitude" : -22.8533317,
-      "longitude" : -42.3580697
-    },
-    {
-      "key" : "TNL",
-      "name" : "Tnl Telecom",
-      "latitude" : -22.9073234,
-      "longitude" : -43.6092511
-    },
-    {
-      "key" : "IPT",
-      "name" : "IP Telecom",
-      "latitude" : -22.8984871,
-      "longitude" : -43.2406326
-    },
-    {
-      "key" : "CBT",
-      "name" : "Conexao Brasil Telecom",
-      "latitude" : -20.5107139,
-      "longitude" : -40.3663651
-    },
-    {
-      "key" : "FBC-SLS",
-      "name" : "Fibracom Salsa",
-      "latitude" : -22.8580463,
-      "longitude" : -43.2617906
-    },
-    {
-      "key" : "FBC-VLP",
-      "name" : "Fibracom Vila Pinheiro",
-      "latitude" : -22.8580463,
-      "longitude" : -43.2617906
-    },
-    {
-      "key" : "FBC-VLJ",
-      "name" : "Fibracom Vila João",
-      "latitude" : -22.8580463,
-      "longitude" : -43.2617906
-    },
-    {
-      "key" : "FBC-TMB",
-      "name" : "Fibracom Timbau",
-      "latitude" : -22.8580463,
-      "longitude" : -43.2617906
-    }
-  ]
+[
+  {
+    "key" : "POP",
+    "name" : "POP Speedynet",
+    "latitude" : -6.530441,
+    "longitude" : -39.903762
+  },
+
+]
